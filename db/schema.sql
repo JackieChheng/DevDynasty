@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS devdyn_db;
+
+CREATE DATABASE devdyn_db;
